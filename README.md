@@ -24,14 +24,14 @@ Sitio publicado: https:/maecabrera007-afk/.github.io/parchedev/
 
 ## Decisiones que tomé
 
-- # 1 “Lo que vas a encontrar” es una lista. Decide si es <ul> u <ol> 
+- ### 1 “Lo que vas a encontrar” es una lista. Decide si es <ul> u <ol> 
  Aqui decidi usar <li> porque no todo es en ese orden en que esta mencionado por lo tanto seria como una lista de lo que va pasar dentro del evento pero no en orden 
 
- # 2 no repitas el id “contenido”
+ ### 2 no repitas el id “contenido”
 
 Cada <h2> de sección tiene su propio id (compromiso, esperamos, no-aceptamos, reportar, despues), y el índice los enlaza con href="#compromiso" esto para no tener inconvenientes ni errores al momento de usar el href
 
-# 3  Cada sección es una <section> con un <h2> 
+### 3  Cada sección es una <section> con un <h2> 
 
 Cada uno es  parte de una misma infomracion osea que  esta en la misma escala gerarquica por lo tanto todas tiene su h2 y no h3,h4,h5,h6.
 
@@ -39,15 +39,15 @@ Cada uno es  parte de una misma infomracion osea que  esta en la misma escala ge
 
 
 
-- # 1 ¿Qué aparece después del ??
+- ### 1 ¿Qué aparece después del ??
 Aparecen todas las respuestas del formulario
-# 2 ¿Cómo se ven los espacios, las tildes y la arroba?
+### 2 ¿Cómo se ven los espacios, las tildes y la arroba?
   los espacios se ven como + , las tildes se ven normales como lo pusimos dentro del formulario , y el arroba se ve como un %
 
-# 3 ¿Qué pasa con los campos que no llenaste? 
+### 3 ¿Qué pasa con los campos que no llenaste? 
 Aparece un aviso que no te deja continuar 
 
-# 4 ¿Por qué un formulario con contraseñas nunca debería usar method="get"?
+### 4 ¿Por qué un formulario con contraseñas nunca debería usar method="get"?
 Porque seria una vulnerabilidad la cual puede ser usado por terceros para adueñarse de tu infomacion en este caso no hay ningun protocolo de seguridad cualquiera la puede ver
 
 
@@ -61,4 +61,4 @@ Porque seria una vulnerabilidad la cual puede ser usado por terceros para adueñ
 
 ## Hecho por
 
-Tu nombre · [GitHub](https://github.com/TU-USUARIO)
+Miguel Angel Echavarria Cabrera· [GitHub](https://github.com/maecabrera007-afk)
